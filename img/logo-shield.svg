@@ -1,0 +1,6 @@
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Escudo grande centrado, sin fondo blanco ni texto -->
+  <rect x="25" y="25" width="100" height="100" rx="24" fill="#0a2946"/>
+  <path d="M75 48 L120 67 V98 Q120 130 75 140 Q30 130 30 98 V67 Z" fill="#1abc9c" stroke="#fff" stroke-width="4"/>
+  <polyline points="49,98 73,120 110,66" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

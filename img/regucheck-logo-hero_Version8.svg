@@ -1,0 +1,13 @@
+<svg width="510" height="130" viewBox="0 0 510 130" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="510" height="130" fill="#fff"/>
+  <!-- Logo escudo -->
+  <g>
+    <rect x="20" y="15" width="80" height="80" rx="16" fill="#0a2946"/>
+    <path d="M60 31 L90 44 V65 Q90 90 60 100 Q30 90 30 65 V44 Z" fill="#1abc9c" stroke="#fff" stroke-width="2.5"/>
+    <polyline points="44,65 58,80 78,48" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Nombre de marca -->
+  <text x="115" y="65" font-size="36" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="bold" fill="#000">ReguCheck</text>
+  <!-- Slogan con font-size 18 -->
+  <text x="115" y="100" font-size="18" font-family="Montserrat, Arial, Helvetica, sans-serif" fill="#444">Tu aliado en cumplimiento automático.</text>
+</svg>
